@@ -2,7 +2,7 @@
 <img src="https://github.com/FaridZelli/EasyEffects-Pavilionx360/blob/main/media/hp-pavilion-speakers.png" alt="" width="33%" align="right">
    
 An EasyEffects preset featuring EQ adjustments.  
-- Totality:
+- Tonality:
   - Subtle V-Shape
 - Key Features:
   - Has minimal impact on battery life
