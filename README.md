@@ -1,7 +1,7 @@
-# EasyEffects Preset for HP Pavilion x360 (11th Gen)
+# Easy Effects Preset for HP Pavilion x360 (11th Gen)
 <img src="https://github.com/FaridZelli/EasyEffects-Pavilionx360/blob/main/media/hp-pavilion-speakers.png" alt="" width="33%" align="right">
-   
-An EasyEffects preset featuring EQ adjustments.  
+
+A basic preset utilizing the parametric EQ
 - Tonality:
   - Subtle V-Shape
 - Key Features:
